@@ -1,0 +1,29 @@
+
+如下任选一种 HTTP 工具 依赖
+<dependency>
+    <groupId>cn.hutool</groupId>
+    <artifactId>hutool-http</artifactId>
+    <version>5.2.5</version>
+</dependency>
+httpclient
+
+<dependency>
+	<groupId>org.apache.httpcomponents</groupId>
+  	<artifactId>httpclient</artifactId>
+  	<version>4.5.12</version>
+</dependency>
+okhttp
+
+<dependency>
+  <groupId>com.squareup.okhttp3</groupId>
+  <artifactId>okhttp</artifactId>
+  <version>4.4.1</version>
+</dependency>
+
+
+fork本项目到自己的repo
+把fork过去的项目也就是你仓库中的项目clone到你的本地
+修改代码
+commit后push到自己的库
+发起PR（pull request） 请求，提交到dev分支
+等待作者合并
