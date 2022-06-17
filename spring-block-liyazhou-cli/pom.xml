@@ -94,7 +94,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.60</version>
+            <version>1.2.83</version>
         </dependency>
         <!--java-jwt是Java语言中推荐的JWT实现库,产生加密Token,解密Token获取负载信息并验证Token是否有效-->
         <dependency>
